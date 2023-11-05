@@ -1,6 +1,4 @@
 <script>
-	import * as math from "mathjs";
-	import { _t } from "../lib/translation";
 	import imageMatrix from "../lib/out.json";
 	import alcedoMatrix from "../lib/alcedo.json";
 
