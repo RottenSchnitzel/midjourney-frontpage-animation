@@ -1,0 +1,58 @@
+        3t                                                                                                        gSSSSS
+        unnnnuuC                                                                                                  SgSSSS
+         tunnTnnuunnnT                                                                                           SSSSSSS
+            uunn##TTunnunnn5                                                                                    pSgSSSSS
+               nnnnTTnTTTnunnnnu                                                                                SgSSSSSS
+                 JnnnTTnnnnTTTunnnuL                                                                           SSSSSSSSS
+                    uunnTTnnnnnnTTnnnnT                                                                       SSgSSSSSgS
+                       uunnTTnnnnnnnTTnnnn                                                                    SgSSSSSSgS
+                          TnnnTTnnnnnnnTTnnnT                                                                gSgSSSSSSSS
+                            LunnTTnnnnnnnnTTnnn     nuz                                                      SgSSSSSSSSS
+                               uTnnTTnnnnnnnnTnnn   #nnnnu                                                  SSSSSSSSSgS 
+                                  nnnTTnnnnnnnnTnnu   uTTnnn#                                              2SgSSSSSSSgq 
+                                    CnnnTnnnnnnnnTnnn  unTTnnnL                                            SgSSSSSSSSSS 
+                                      VnnnTnnnnnnnnTnn  nnnnTTnnL                                         SSgSSSSSSSgS  
+                                         nnTnnnnnnnnTnnJ nTnnnnTnu                                        SgSSSSSSSSgS  
+                                          TnnTnnnnnnnnTnLnnnnnnnTnnw                                     SSSSSSSSSSgShSS
+                                            unTnnnnnnnnTnuuTnnnnnnTuL                                   gSgSSSSSSSSgSSSg
+                                             uuTnnnnnnnnTnunnnnnnnnTn                                  sSgSSSSSSSSSSSSgS
+                                              TuTnnnnnnnnTnnnnnnnnnnnn                                 SgSSSSSSSSSSSgSSS
+                                               nnnnnnnnnnnnnnnnnnnnnTn                                SSSSSSSSSSSSSSSSSS
+                                                uTnnnnnnnnnnnnnnnnnnTn                               SSgSSSSSSSSSSSSSSSS
+                                                uTnnnnnnnnnnnnnnnnnnTu  un                          SSgSSSSSSSSSSSSSSSSS
+                                               #nTnnnnnnnnnnnnnnnnnnTn nTu                         SSgSSSSSSSSSSSSSSSSSS
+                                    trcllllllltTTTnnnnnnnnnnnnnnnnnnnnnnTun                       qSgSSSSSSSSSSSSSSSSSSS
+                                llcccccccllccclI[ouTnnnnnnnnnnnnnnnTunnTnTn                      SSgSSSSSSSSSSSSSSSSSSSS
+                            {lcccllllllccccccllcccs[LTnnnnnnnnnnnnnuuTnnnTn                    cSSgSSSSSSSSSSSSSSSSSSSgg
+                          cccclllcccccccccccccccccccrannnnnnnnnnnnnnnnnnnTu                   t5gSSSSSSSSSSSSSSSSSSSggSS
+                        lccllclllccccccccccccccccccccctTnnnnnnnnnnnnnnnnnTn                =%o5gSSSSSSSSSSSSSSSSSSgSSS  
+                      cllllcll%i%cccccccccccccccccccccrjnnnnnnnnnnnnnnnnnTn              x%I#ggSSSSSSSSSSSSSSSSSSSSSSSSS
+                    ccclcccli,` .)lcccccccccccccccccccc[TnnnnnnnnnnnnnnnnTn           lcx{LmgSSSSSSSSSSSSSSSSSSSSSSSSggg
+                   cclcccclx-   `)lcccccccccccccccccccc*unnnnnnnnnnnnnnnnun       clccx*jpgSSSSSSSSSSSSSSSSSSSSSSggSSSSS
+                 llllccccccc|;^|%lcccccccccccccccccccccleLLunnTTTTTTTTTT#T  %cclccccl?upgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+                lclccccccccclllllccccccccccccccccccccccclrr{*I?][1ttttt1[{cccccccc{efqgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSg
+              clllcccccccccccccccccccccccccccccccccccccccccccccccccccccccllcccc*aJ6ggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgS
+            cllllcccccccccccccccccccccccccccccccccccccccccccccccccccccccccl*1LymggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSSp
+          lccllccccclcccccccccccccccccccccccccccccccccccccccccccccccl{I1zJ2mSggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSS  
+        cccllccccllcccllllcccccccccccccccccccccccccccccclrs*I?[a7L#f56qSggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSS   
+      lccllcccllccccccccccllllcccccccccccccls*I!1ezLTJfy5F6mqSSgggggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSSS    
+    cccllcclllcclc      )lccccr{{*I]1a7L#Cy5pmqSSgggggggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSS      
+  llcllclllccl%              lC66mqSSggggggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSSm       
+ccclllllcccc                   ggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSggSS         
+llllcccll                      mSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSSm          
+lclccl                          SSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSSq            
+cc                               gSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSggSSq              
+                                  mSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSggSSS                
+                                   SSSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSggSSSSSSSSSSSSSSSSggSSSq                  
+                                     SSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSggggSSSSSggggSSSSS                     
+                                      SSggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSpSSSSSSSSSSSSSSSg                        
+                                       2SSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgS    hSSSqSm                             
+                                         mSSggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSp                                      
+                                           qSSggSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSq                                     
+                                             mSSSgSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgSS                                    
+                                               pSSSgggSSSSSSSSSSSSSSSSSSSSSSSSSSSSggSS                                  
+                                                  qSSSSggSSSSSSSSSSSSSSSSSSSSSSSSSSSgSm}                                
+                                                     mSSSSSgggSSSSSSSSSSSSSSSSSSSSSSSgg5e>                              
+                                                         SSSSSSSggggggSSSSSSSSSSSSSSSSSgqLri                            
+                                                              ggSSSSSSSSSggggSSSSSSSSSSSSg3!cc                          
+                                                                    $SSgSSSSFf2FmqSSSSSSSSgmolcl                        

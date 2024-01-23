@@ -1,0 +1,58 @@
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS5T]sccccccccccccccccccccccv+`  `"xlcclcc{                 
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS5n[rcccccccccccccccccccll%/`  _<llcllll                
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgS2z*cccccccccccccccccccll%"`  ^%lcclcl%              
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSg6T?cccccccccccccccccccll%/` `<lccllll             
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgm#Icccccccccccccccccccll%/. "lcccllc            
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSg6jscccccccccccccccccccllv; /ccccllcr          
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSy!ccccccccccccccccccccll)=>ccccclcc         
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgF1ccccccccccccccccccccclc%ccccccllc        
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSF1cccccccccccccccccccccclccccccclcc       
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSwIcccccccccccccccccccccccccccccclcc      
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgggggSSqmmm66666mqqSSSggggSSSSSSSSSSS5tlcccccccccccccccccccccccccccccclc=     
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSgggS65f#Loa[?I}**{{{{**I?]1e7u#w2F6mSSSSSS6J!lcccccccccccccccccccccccccccccccll     
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSggSFwue!{rccccccccccccccccccccccccccl{}?[e7jLze?rlccccccccccccccccccccccccccccccclcc    
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSgS5Jo?rcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccclc=   
+SSSSSSSSSSSSSSSSSSSSSSSSSSgq3L!rccccclllllcclrrrrrrrlcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccclc   
+SSSSSSSSSSSSSSSSSSSSSSSgS2j?lcccllllccccc*tozjLLLLLjz7oa[!*slcccccccccccccccccccccccccccccccccccccccccccccccccccccclc   
+SSSSSSSSSSSSSSSSSSSSSgmJ[lcccllccccccc V#TTTnnnnnnnnnTTTTTnLze!{lcccccccccccccccccccccccccccccccccccccccccccccccccclc%  
+SSSSSSSSSSSSSSSSSSSg6nIcccllcclcc    pnnnnnnnnnnnnnnnnnnnnnnnTTuz1*lcccccccccccccccccccccccccccccccccccccccccccccccclc  
+SSSSSSSSSSSSSSSSSgmn*ccllclll{     unnnTnnnnnnnnnnnnnnnnnnnnnnnnnTn7!lcccccccccccccccccccccccccccccccccccccccccccccclc  
+SSSSSSSSSSSSSSSSSw?ccllcclc       nnnTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTTz?lcccccccccccccccccccccccccccccccccccccccccccclc  
+SSSSSSSSSSSSSSgpaccllllc        nnnTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTno{ccccccccccccccccccccccccccccccccccccccccccclc{ 
+SSSSSSSSSSSSSgw*cclccl        TnnTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTL*cccccccccccccccccccccccccccccccccccccccccclc= 
+SSSSSSSSSSSSSLlcllcc         LnTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTL*ccccccccccccccccccccccccccccccccccccccccclc  
+SSSSSSSSSSSqeccllc{         unTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTjrcccccccccccccccccccccccccccccccccccccccclc  
+SSSSSSSSSSSacclcc          nnTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnT]cccccccccccccccccccccccccccccccccccccccclc  
+SSSSSSSSSSeccllx          nnTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnT7lcccccccccccccccccccccccccccccccccccccclcc  
+SSSSSSSSgucclcl          nnTnnnnnnuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnjrcccccccccccccccccccccccccccccccccccccclc   
+SSSSSSSgyrclcc          unTnnnnnTunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnzrcccccccccccccccccccccccccccccccccccccclc   
+SSSSSSSq?cllc           nTnnnnTnnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTelccccccccccccccccccccccccccccccccccccclcl   
+SSSSSSgTcclc           nuTnnnTnuuTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn?ccccccccccccccccccccccccccccccccccccclcc    
+SSSSSSm!clcc           nnnnnTnuuTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn7rcccccccccccccccccccccccccccccccccccccll     
+SSSSSgyccll            uTnnnnunTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnu!ccccccccccccccccccccccccccccccccccccclc=     
+SSSSSSzclc            tnTnnTuLuTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTj*cccccccccccccccccccccccccccccccccccclcc      
+SSSSSSIclc            znTnTnunTnnnnnnnnnnnnnnnnnnnnnnnnTTTTTTTTTnTTTTTnuj1sccccccccccccccccccccccccccccccccccllc%       
+SSSSSSIclc            LnTnTn uTnnnnnnnnnnnnnnnnnnnnnnu7et1teeo7777oet]I{lcccccccccccccccccccccccccccccccccccllc{        
+SSSSSq}ccl             uTnnu7unnnnnnnnnnnnnnnnnnnnnnj?rccccccclllcccccccccccccccccccccccccccccccccccccccccclcc          
+SSSSSq}ccc             nnnnuLunnnnnnnnnnnnnnnnnnnnnn1cccccccccccccccccccccccccccccccccccccccccccccccccccclllc           
+SSSSSSIccl             nunnu=nTnnnnnnnnnnnnnnnnnnnnn1ccccccccccccccccccccccccccccccccccccccccccccccccccllcc           un
+SSSSSSIccc              nTTn uTnnnnnnnnnnnnnnnnnnnnnj*cccccccccccccccccccccccccccccccccccccccccccccccllccl          unnT
+SSSSSSoclc              nn#nuTnnnnnnnnnnnnnnnnnnnnnnnz*ccccccccccccccccccccccccccccccccccccccccccclllcll          unnTnn
+SSSSSgfclc               uTTn nTnnnnnnnnnnnnnnnnnnnnnTL]lcccccccccccccccccccccccccccccccccccccclllcccv          TnnTTnnn
+SSSSSS6Icc               wu#u=TnTnnnnnnnnnnnnnnnnnnnnnnT7?lccccccccccccccccccccccccccccccccllllclll          TunnTnnnnnn
+SSSSSSgjccc               tn#n unnnnnnnnnnnnnnnnnnnnnnnnnnjt}lcccccccccccccccccccccccccllllccclc          LnnnnTnnnnnnTT
+SSSSSSS6*ll                #nnu unnnnnnnnnnnnnnnnnnnnnnnnnnTnje!*rlccccccccccccccccccllllcclv          TnunuTTnnnnnnTTnn
+SSSSSSSg#ccc                 uun nnTnnnnnnnnnnnnnnnnnnnnnnnnnnTTnLzet]?I}*{{{{*}I?]t11?v          TTnunnnTTnnnnnnnTnnnnn
+SSSSSSSSStcc=                 nnn unTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTTTTTnuuuuuunTTTTT#JuTzuTTnnuunuunTTnnnnnnnnTnnnnnnnT
+SSSSSSSSSp}cc                  nnn nnnTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnunnunununuunTTTTnnnnnnnnnTTnnnnnnTTnn
+SSSSSSSSSg3{cc                   unu unTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTTTTnnnnnnnnnnnnnTTnnTnnnnuTnnnTu
+SSSSSSSSSSgfscl                   Cnu LnnTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTTnnnnnunnnTTnnTTnnn
+SSSSSSSSSSSgwscc                    tt  unnTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnununnnnuunTTnnnTTnnnL  
+SSSSSSSSSSSSgy}cl                         TTnnTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTTTnnnTTnnnn     
+SSSSSSSSSSSSSgF!cc                           nunnTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnuuuunTTnnnnTTnnnnu        
+SSSSSSSSSSSSSSSmocx{                           LunnnTTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTTTnuuuuL           
+SSSSSSSSSSSSSSSSSC}cx                              nnunnnTTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTTTnnnnnnL               
+SSSSSSSSSSSSSSSSSg6olx=                                TnunnnunTTTTTTTnnnnnnnnnnnnnnnTTTTTTTnunnuuuuT                   
+SSSSSSSSSSSSSSSSSSSSf!c%                                    JnuuununuuuuuuuunnuuuuununnuuunuuTz                         
+SSSSSSSSSSSSSSSSSSSSgq#Icc                                           #uLnuunnnuuuLnnnw                                  
+SSSSSSSSSSSSSSSSSSSSSSgmu{c%                                                                                            

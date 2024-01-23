@@ -1,141 +1,185 @@
 <script>
-	import imageMatrix from "../lib/out.json";
-	import alcedoMatrix from "../lib/alcedo.json";
+	import imageArray from "../lib/logo.txt.json";
+	import name from "../lib/name.json";
+	import { onMount } from "svelte";
 
-	export let rows = 75;
-	export let cols = 150;
+	let animation_index = 0;
+	let _array = imageArray[animation_index];
+	let showInput = true;
+	let inputElement;
+	let inputValue = "";
+	let isFlipped = false;
+	
+	const inputPrompt = '<div style="color: rgba(255,161,1,255);">guest</div><div style="color: grey;">@</div><div style="color: rgba(80,126,255,255);">alcedo.digital</div><div style="color: grey">&nbsp;~>&nbsp;</div>';
+	
+	let stdout = [];
+	let history = [];
 
-	let _matrix = imageMatrix[0];
-	let randomArray = getRandomArray(rows, 0, 4);
-	let randomArray2 = getRandomArray(rows, 0, 1);
-	let color = new Array(rows).fill(new Array(cols));
+	let historyCursor = 0;
 
-	let matrix = new Array(rows).fill(
-		'#include<stdio.h>int main(){int n,i;long long int fib[50];printf("Input:");scanf("%d",&n);fib[0]=0;fib[1]=1;for(i=2;i<n;i++){fib[i]=fib[i-1]+fib[i-2];}printf("Series:");for(i=0;i<n;i++){printf("%lld",fib[i]);}return 0;}#include<stdio.h>int main(){int n,i;long long int fib[50];printf("Input:");scanf("%d",&n);fib[0]=0;fib[1]=1;for(i=2;i<n;i++){fib[i]=fib[i-1]+fib[i-2];}printf("Series:");for(i=0;i<n;i++){printf("%lld",fib[i]);}return 0;}'
-	);
+	const addLine = async (text) => {
+		stdout = [...stdout, text];
+	};
 
-	for (let i = 1; i < matrix.length; i++) {
-		matrix[i] = matrix[i].slice(i + randomArray[i]);
-		for (let j = 0; j < cols; j++) {
-			color[i][j] = Math.floor(Math.random() * 3);
+	const onKey = (e) => {
+		let key = e.key;
+		if (key === 'ArrowUp') {
+			inputValue = history[historyCursor];
+			++historyCursor;
+		}
+		if (key === 'ArrowDown' && historyCursor > 0) {
+			--historyCursor;
+			inputValue = history[historyCursor];
 		}
 	}
 
-	let animation_index = 1;
+	const printHelp = () => {
+		addLine("<br>");
+		addLine("Useful commands: <br><br>");
+		addLine("help");
+		addLine("contact");
+		addLine("about");
+		addLine("projects");
+		addLine("vim");
+		addLine("<br>");
+	}
 
-	function rotateFigure(matrix, degrees) {
-		const radians = (degrees * Math.PI) / 180;
-		const cosRadians = Math.cos(radians);
-		const sinRadians = Math.sin(radians);
-		const centerX = matrix.length / 2;
-		const centerY = matrix[0].length / 2;
+	const clear = () => {
+		stdout = [];
+	}
 
-		const rotatedMatrix = [];
-
-		for (let i = 0; i < matrix.length; i++) {
-			rotatedMatrix[i] = [];
-			const x = i - centerX;
-
-			for (let j = 0; j < matrix[i].length; j++) {
-				const y = j - centerY;
-
-				const rotatedX =
-					Math.round(x * cosRadians - y * sinRadians) + centerX;
-				const rotatedY =
-					Math.round(x * sinRadians + y * cosRadians) + centerY;
-
-				rotatedMatrix[i][j] =
-					rotatedX >= 0 &&
-					rotatedX < matrix.length &&
-					rotatedY >= 0 &&
-					rotatedY < matrix[i].length
-						? matrix[rotatedX][rotatedY]
-						: false;
+	const onInput = () => {
+		let terminal = document.getElementById("terminal");
+		addLine(inputPrompt + inputValue);
+		history = [inputValue, ...history];
+		showInput = false;
+		if (inputValue === "help") {
+			printHelp();
+		} else if (inputValue === "clear") {
+			clear();
+		} else if (inputValue === "hostname") {
+			addLine("alcedo.digital");
+		} else if (inputValue === "vim") {
+			window.open("https://youtu.be/2qBlE2-WL60");
+		} else if (inputValue === "contact") {
+			addLine("Phone Number: " + "+4367761" + "806791");
+			addLine("Email: " + "contact" + "@" + "alcedo" + ".digital");
+		} else if (inputValue === "about") {
+			addLine("<br>");
+			addLine("We are crafting code with passion!");
+			addLine("<br>");
+			addLine("At Alcedo Digital, we specialize in an array of services that cater to your digital requirements:");
+			addLine("Frontend Development  Web Development  Backend Development  Mobile Apps");
+			addLine("<br>");
+		} else if (inputValue === "ls") {
+			addLine("homework  projects  images");
+		} else if (inputValue === "projects") {
+			addLine("domalio.com (in development)  sk-as.at (in development)");
+		} else if (inputValue === "flip") {
+			if (isFlipped) {
+				isFlipped = false;
+				terminal.style = "";
+			} else {
+				isFlipped = true;
+				terminal.style = "transform: rotate(180deg);";
 			}
+		} else if (inputValue === "") {
+			
+		} else if (inputValue === "") {
+			
+		} else if (inputValue === "") {
+			
+		} else if (inputValue === "") {
+			
+		} else {
+			addLine(inputValue + ": " + "command not found")
 		}
+		inputValue = "";
+		showInput = true;
+		terminal.scrollTo(0, terminal.scrollHeight);
+	};
 
-		return rotatedMatrix;
-	}
+	onMount(() => {
+		inputElement = document.getElementById("input");
+		addLine("Welcome to alcedo.digital!<br><br>");
+		name.forEach(e => {
+			addLine(e);
+		});
+		addLine("<br>");
+		addLine('Type in "help" to get a list of useful commands<br><br>');
+		/*let interval = setInterval(() => {
+			animation_index += 1;
+			if (animation_index < 400) {
+				_array = imageArray[400 - animation_index];
+			} else {
+				clearInterval(interval);
+			}
+		}, 10);*/
+	});
 
-	function getRandomArray(length, min, max) {
-		var arr = [];
-		for (var i = 0; i < length; i++) {
-			arr.push(Math.floor(Math.random() * (max - min + 1)) + min);
-		}
-		return arr;
-	}
-
-	const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-
-	let flag = false;
-
-	function shiftMatrix(matrix) {
-		for (let i = 0; i < matrix.length; i++) {
-			/*if (
-				(randomArray2[i] == 0 && flag) ||
-				(randomArray2[i] == 1 && !flag)
-			)*/
-				let string = matrix[i];
-				let stringArray = string.split("");
-				stringArray[Math.floor(Math.random() * stringArray.length)] = String.fromCharCode(Math.floor(Math.random() * (127 - 32)) + 32);
-				matrix[i] = stringArray.join("");
-		}
-
-		return matrix;
-	}
-
-	setInterval(() => {
-		_matrix = imageMatrix[animation_index];
-		animation_index++;
-		if (animation_index >= 180) {
-			animation_index = 0;
-		}
-	}, 50);
-
-	console.log(matrix.length);
-
-	setInterval(() => {
-		matrix = shiftMatrix(matrix, 1);
-		flag = !flag;
-	}, 1);
 </script>
 
-<div class="projection" id="projection">
-	{#each matrix as row, i}
-		<div class="row">
-			{#each row as col, j}
-				{#if j <= 150}
-					<div class={alcedoMatrix[i][j] || j > 130 ? "col" : "col logo"}>
-						<!--{matrix[i][j]}-->
-						{@html _matrix[Math.floor(i / 2)][Math.floor(j / 2)] ||
-						!alcedoMatrix[i][j]
-							? matrix[i][j]
-							: "&nbsp;"}
-					</div>
-				{/if}
-			{/each}
+<!--div class="top">
+	{#if _array}
+		<pre class="projection" id="projection">
+			{@html _array}
+		</pre>
+	{/if}
+</div-->
+<div class="terminal" id="terminal" on:mouseup={() => {inputElement.focus()}}>
+	{#each stdout as line}
+		<div class="line">
+			{@html line}
 		</div>
 	{/each}
+	{#if showInput}
+		<form on:submit|preventDefault={onInput}>
+			<div class="line">
+				<div class="input">
+					{@html inputPrompt}
+					<input type="text" bind:value={inputValue} id="input" autofocus autocomplete="off" on:keydown={onKey}/>
+				</div>
+			</div>
+		</form>
+	{/if}
 </div>
+
 <style>
-	.projection {
-		width: 80vw;
-		height: 80vh;
-		font-weight: 600;
-		overflow: hidden;
-		margin: 10vh auto;
+	.terminal {
+		overflow-y: scroll;
+		z-index: 10;
+		flex: 1;
+		background-color: rgb(49, 49, 49);
+		border: 2px solid rgba(80,126,255,255);
+		padding: 20px;
 	}
-	.row {
+	.terminal::-webkit-scrollbar {
+		display: none;
+	}
+	pre {
+		all: inherit;
+	}
+	.line {
 		display: flex;
-		flex-direction: row;
-		height: calc(80vh / 75);
+		white-space: pre;
 	}
-	.col {
-		font-size: 9px;
-		width: calc(80vw / 150);
-		color: #5981fb;
+	.input {
+		display: flex;
 	}
-	.logo {
-		color: white;
+	input {
+		background-color: transparent;
+		border: none;
+		all: unset;
+	}
+	.projection {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100px;
+		height: 100px;
+		font-weight: 400;
+		font-size: 5px;
+		line-height: 5px;
+		overflow: hidden;
 	}
 </style>

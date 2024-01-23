@@ -16,6 +16,7 @@
 	"type": "module",
 	"dependencies": {
 		"@fontsource/roboto": "^5.0.5",
+		"@fontsource/roboto-mono": "^5.0.16",
 		"mathjs": "^11.8.0",
 		"transformation-matrix": "^2.15.0"
 	}
